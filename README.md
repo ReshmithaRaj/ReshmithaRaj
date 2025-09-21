@@ -1,16 +1,37 @@
 ## Hi there 👋
+## I am Reshmitha Raj -Data Analyst
+## Featured Projects
 
-<!--
-**ReshmithaRaj/ReshmithaRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏠 Homelessness Assessment Analysis  
+**Focus**: Data benchmarking, policy evaluation, stakeholder reporting  
+**Tools**: Power BI, statistical analysis  
+**Outcome**: Highlighted prevention gaps, driving recommendations for resource reallocation  
 
-Here are some ideas to get you started:
+### 📊  Risk Analytics
+**Focus**: Risk assessment, compliance reporting, trend detection  
+**Tools**: Power BI, Excel, data modeling  
+**Outcome**: Enhanced oversight of financial compliance risks through data-driven insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Process Automation Dashboard
+**Focus**: Process optimization, KPI monitoring, performance tracking  
+**Tools**: Power BI, workflow analysis  
+**Outcome**: Streamlined reporting and improved visibility into process efficiency  
+
+---
+
+## Technical Skills
+- **Analytics**: Power BI, Excel, Statistical Analysis, Data Modeling  
+- **Compliance**:Risk Assessment, Regulatory Reporting  
+- **Business Intelligence**: Dashboard Design, KPI Development, Stakeholder Communication  
+- **Process Improvement**: Automation, Continuous Improvement, SOP Development
+
+- ## Contact
+- 📌 LinkedIn: [www.linkedin.com/in/reshmitha-raj-abr916201 ]    
+- 🌍 Location: UK  
+
+---
+
+## Current Focus
+Pursuing data analyst opportunities in the UK, with a strong interest in public sector projects and compliance-driven analytics. 
+
+
